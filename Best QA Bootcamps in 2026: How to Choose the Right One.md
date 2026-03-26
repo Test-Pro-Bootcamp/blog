@@ -13,17 +13,14 @@ Plot twist: you don’t actually need to code! It’s called Quality Assurance, 
 Think of Quality Assurance as the final safety net. It’s the reason your banking app doesn’t freak out during a money transfer, or why your cool armor and nekker boots in The Witcher 3 doesn’t vanish after a patch. 
 Someone has to make sure software works, not just if we are lucky, but every single time. That someone could be you.
 
----
-
 ## What Does a QA Engineer Actually Do?
 
  In short, you break things for a living—methodically and with purpose.
 You’re quite the detective hunting for bugs, the last line of defense before a product reaches users. 
 It’s a role that mixes sharp analytical thinking with obsessive attention to detail. Yeah, that cool Cumberbatch guy, who couldn’t miss a single detail is your prototype! 
 But you don’t just find problems, you document them clearly and work with developers to craft solutions. 
-
 <p align="center">
-  <img src="images/https://testpro.io/wp-content/uploads/2026/03/5300883550972351448-600x336.jpg" alt="Non-technical tech jobs" width="500" height="280">
+  <img src="https://testpro.io/wp-content/uploads/2026/03/5300883550972351448-600x336.jpg" alt="Non-technical tech job" width="500" height="280">
 </p>
 
 And here’s the kicker: in an era of AI, your human eye for edge cases and unpredictable user behavior is becoming more valuable, not less than you might think. 
