@@ -35,9 +35,9 @@ Because without solid QA, software turns buggy, frustrates users, and can seriou
 Let’s be upfront: technical skills can be taught in a bootcamp. But we also need to keep in mind that not everyone is cut out for this job. So what’s the core soft-skills for QA engineers? 
 
 - A knack for methodical breaking, call it structured curiosity. Do you enjoy creating logical, step-by-step plans to see what makes a system crack, like a puzzle where you are stress-testing the pieces? 
-For example, “What happens if I enter a negative number here?” or “What if I spam this button 100 times?”  
+For example, “What happens if I enter a negative number here?” or “What if I spam this button 100 times?”
 <p align="center">
-  <img src="images/https://testpro.io/wp-content/uploads/2026/03/QA-Tester-meme-05-600x802.jpg" alt="QA Workflow Diagram" width="374" height="500">
+  <img src="https://testpro.io/wp-content/uploads/2026/03/QA-Tester-meme-05-600x802.jpg" alt="Is QA oversaturated in 2026?" width="374" height="500">
 </p>
 
 - Relentless attention to detail: are you the person who spots the typo, the one-pixel misalignment, or the button that’s a slightly different shade of blue? So basically, people call you a nitpicker? You’ve found your place!  
@@ -45,9 +45,9 @@ In QA the smallest detail can be the clue to a major crash, it’ll be your job 
 - Stubborn patience, but the smart kind. Do you like to farm for rare drops? Good, because some tests are repetitive, and the professional version farming is running that regression checklist for the tenth time. But here’s the kicker: after the second round, you’re already thinking, “Okay, how do I automate this?” — that’s how you grow from manual to automation.
 - Crystal-clear communication, so you can report found bugs to a developer without any misunderstandings. 
 Can you articulate “what, when, and how” precisely and without drama? Because a good bug report is a work of objective, helpful documentation.But remember you’re not the quality police, you are the user’s advocate and the developer’s ally. 
-The goal is not to blame, but to build a better product together with empathy and great teamwork. 
+The goal is not to blame, but to build a better product together with empathy and great teamwork.
 <p align="center">
-  <img src="images/https://testpro.io/wp-content/uploads/2026/03/QA-Tester-meme-06-300x216.jpg" alt="QA tester meme" width="500" height="359">
+  <img src="https://testpro.io/wp-content/uploads/2026/03/QA-Tester-meme-06-300x216.jpg" alt="Remote work with no degree" width="500" height="359">
 </p>
 
 In a nutshell: If you’re a natural problem-solver who enjoys deep focus and clear communication, you already have the core of a QA engineer. 
